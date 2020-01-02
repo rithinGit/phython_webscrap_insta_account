@@ -6,7 +6,7 @@ import os
 
 
 ####
-username = 'the_new_girl_in_city' ##destination accout where download files from this account
+username = '' ##destination accout where download files from this account
 ####
 
 # Create target Directory if don't exist
